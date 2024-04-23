@@ -18,5 +18,5 @@ This is a food recipe website project built with HTML and CSS. It allows users t
 Clone the repository and open the `index.html` file in your browser.
 
 ```bash
-git clone https://github.com/your-username/food-recipe-website.git
-cd food-recipe-website
+git clone https://github.com/tathsaraniliyanage/food-recipe.git
+cd food-recipe
