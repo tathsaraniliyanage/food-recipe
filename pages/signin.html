@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>signin-form</title>
+    <link rel="stylesheet" href="../assets/style/index.css">
+    <style>
+    body{
+      background-color: rgb(255, 255, 255);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    </style>
+</head>
+
+<body>
+    
+    <form action="" method="" style="background-color: rgba(128, 128, 128, 0.079) ; padding: 18px;">
+        <h2>You can register now</h2>
+       <label for="fullName">full name:</label>
+       <input type="text" name="fullName"  placeholder="enter your full name" required>
+       <br/>
+       <br/>
+       <label for="gender" >Gender:</label>
+       <label for="female" >female:</label>
+       <input type="checkbox" name="female" required>
+       <label  for="male"> male:</label>
+       <input type="checkbox" name="male" required>
+       <br/>
+       <br/>
+       <label for="dob">date of birth</label>
+       <input type="date" name="dob" required>
+       <br/>
+       <br/>
+       <textarea name="message" id="textarea" cols="50" rows="10" placeholder="enter your message"></textarea>
+       <br/>
+       <br/>
+       <button  type="reset" style="background-color: rgb(88, 175, 2);" > sign in</button>
+       <button type="reset" style="background-color: rgb(255, 251, 43);">reset</button>
+       <a href="/index.html"> <button type="button"  style="background-color: crimson;">cancel</button></a>
+    
+    </form>
+</body>
+</html>
