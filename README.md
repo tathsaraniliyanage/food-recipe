@@ -1,22 +1,41 @@
-# Food Recipe Website
+# Food Recipe Website 🌟
 
-This is a food recipe website project built with HTML and CSS. It allows users to find various food items and view details about them.
+This is a fully responsive and user-friendly web application built using HTML, CSS, Bootstrap, and JavaScript. It allows users to find various food items and view details about them.  This project showcases a collection of delicious recipes with easy-to-follow instructions, ingredient lists, and vibrant food images. Perfect for food enthusiasts and aspiring chefs! 
 
-## Features
+## 📚 Features
 
-- **Search**: Users can search for specific food items.
+- **Responsive Design**: The website is fully responsive and works flawlessly on desktops, tablets, and mobile devices.
+- **User-Friendly Interface**: Clean and intuitive design to enhance user experience.
+- **Interactive Components**: Built with JavaScript to add interactivity, such as dynamic menus, cart functionality, and order customization.
+- **Bootstrap-Powered**: Utilizes Bootstrap for a sleek, modern layout and pre-built components.
+- **Custom CSS**: Styled with custom CSS to ensure a unique and visually appealing design.
+- **Recipe Categories**: Organized sections for breakfast, lunch, dinner, and desserts.
+- **Search Functionality**: Easily find recipes using the search bar.
+- **Interactive Elements**: Hover effects, buttons, and animations for a better user experience.
 - **View Details**: Users can view details about each food item, such as ingredients and preparation method.
-- **Shop**: Users can shop for food items directly from the website.
+- **PLaceorder**: Users can buy food items directly from the website.
 
-## Technologies Used
+
+## 📄 Technologies Used
 
 - HTML
-- CSS
+- CSS BOOSTRAP
+- PLAIN CSS
+- JAVASCRIPT
 
-## Installation
+## 🚀 Installation
 
 Clone the repository and open the `index.html` file in your browser.
 
-```bash
+```
 git clone https://github.com/tathsaraniliyanage/food-recipe.git
 cd food-recipe
+```
+
+
+
+## 📚 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
